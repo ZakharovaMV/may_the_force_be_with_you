@@ -30,7 +30,7 @@ if result.status_code == 200:
     with open("swap.json", "w") as file:
         json_text = json.dump(dict, file, indent=4)
 
-print("Да прибудет с тобою сила!!!")
+print("Да прибудет с тобою сила!")
 
 
 
