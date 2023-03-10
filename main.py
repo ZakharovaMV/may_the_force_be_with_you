@@ -31,7 +31,7 @@ if result.status_code == 200:
         json_text = json.dump(dict, file, indent=4)
 
 print("Да прибудет с тобою сила")
-print("May_force_be_with_you")
+
 
 
 
